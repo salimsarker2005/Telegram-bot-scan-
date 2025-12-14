@@ -1,1 +1,1 @@
-# Telegram-bot-scan-
+Telegram image scanner bot
